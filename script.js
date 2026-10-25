@@ -32,8 +32,8 @@ Wash & Combo|Wash (Sat to Sun)|700,800,1000,1200
 Wash & Combo|Exterior Superb & Interior Premium Combo|6000,7000,7500,8500
 Ceramic & Graphene|Ceramic Classic|14000,16000,18000,20000
 Ceramic & Graphene|Ceramic Coating|20000,23000,26000,29000
-Ceramic & Graphene|Graphene Shield Coating - Plan 1|24000,27000,31000,34000
-Ceramic & Graphene|Graphene Shield Coating - Plan 2|32000,37000,42000,47000
+Ceramic & Graphene|Graphene Shield Coating - 1 Year|24000,27000,31000,34000
+Ceramic & Graphene|Graphene Shield Coating - 2 Years|32000,37000,42000,47000
 PPF (per sq ft)|PPF 50 Gloss - 5 Years|@590
 PPF (per sq ft)|PPF 100 Gloss - 7 Years|@725
 PPF (per sq ft)|PPF 150 Gloss - 10 Years|@1200
